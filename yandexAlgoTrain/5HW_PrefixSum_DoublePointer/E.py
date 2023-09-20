@@ -25,7 +25,6 @@ print(arr3)
 
 answer = None
 
-
 if answer is not None:
     print(*answer)
 else:
